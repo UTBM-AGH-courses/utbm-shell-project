@@ -1,0 +1,14 @@
+     13      13     139
+ PRI  NI ADDR SZ WCHAN  TTY          TIME CMD
+0 S  1000  2682  2679  0  80   0 - 12832 sigsus pts/1    00:00:00 zsh
+0 S  1000  6581  2682  0  80   0 -  1674 wait   pts/1    00:00:00 shell
+1 S  1000  6585  6581  0  80   0 -  1674 wait   pts/1    00:00:00 shell
+1 S  1000  6592  6585  0  80   0 -  1674 wait   pts/1    00:00:00 shell
+4 R  1000  6593  6592  0  80   0 -  8189 -      pts/1    00:00:00 ps
+ov.  29 16:45 shell
+-rw-rw-r-- 1 valentin valentin  3811 nov.  29 16:42 shell.c
+-rw-rw-r-- 1 valentin valentin 15224 nov.  29 16:45 shell.o
+-rw-rw-r-- 1 valentin valentin  1272 nov.  28 08:39 shell-utils.c
+-rw-rw-r-- 1 valentin valentin  2648 nov.   9  2006 shell-utils.h
+-rw-rw-r-- 1 valentin valentin  7536 nov.  29 16:45 shell-utils.o
+-rw-rw-r-- 1 valentin valentin   139 nov.  29 15:49 test.txt
